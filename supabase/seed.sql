@@ -1,0 +1,3 @@
+-- ObsiNote Seed Data
+-- Run this after creating tables via migrations
+-- See supabase/migrations/ for table schemas
